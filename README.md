@@ -1,6 +1,6 @@
 # Investment Calculator
 
-Expense Tracker is a web application built using React, JavaScript, Create-React-App, and CSS that allows users to calculate their investments based on given params.
+Investment Calculator is a web application built using React, JavaScript, Create-React-App, and CSS that allows users to calculate their investments based on given params.
 
 ## Installation
 
